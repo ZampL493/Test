@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valor Paws Care</title>
+    <style>
+        /* Basic styling for the webpage */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+        }
+        .content {
+            padding: 20px;
+        }
+        /* LinkedIn badge styling */
+        .linkedin-badge {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- LinkedIn Profile Badge -->
+    <div class="linkedin-badge">
+        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="andrew-pickerall-9032b2109" data-version="v1">
+            <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrew-pickerall-9032b2109?trk=profile-badge">Andrew Pickerall</a>
+        </div>
+    </div>
+
+    <!-- Webpage Content -->
+    <div class="header">
+        <h1>Welcome to Valor Paws Care</h1>
+    </div>
+    <div class="content">
+        <p>Here’s where I’m building a simulated organization using Azure, GitHub, and PowerShell. Check out the project and follow along with my updates!</p>
+    </div>
+</body>
+</html>
